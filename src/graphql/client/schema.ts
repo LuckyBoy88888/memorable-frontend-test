@@ -546,6 +546,12 @@ export interface Brand {
   __typename: "Brand";
 }
 
+export interface SectorItem {
+  id: number,
+  name?: string,
+  count?: number
+}
+
 export type Sector =
   | "ApparelAndAccessories"
   | "BeautyAndPersonalCare"

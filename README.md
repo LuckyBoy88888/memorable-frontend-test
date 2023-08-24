@@ -15,3 +15,10 @@ Fork this repo, clone it and run:
     $ npm install
 
     $ npm start
+
+### Login credentials
+
+user: test@memorable.io
+
+pass: Dem0!1234..
+
